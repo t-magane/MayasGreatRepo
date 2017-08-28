@@ -4,8 +4,9 @@
   "description": "This is a package that maya published",
   "main": "index.js",
   "dependencies": {
-    "greenkeeper-lockfile": "^1.8.1",
-    "gulp": "^3.9.1"
+    "express": "^4.14.0",
+    "greenkeeper-lockfile": "=1.1.0",
+    "gulp": "3.9.1"
   },
   "devDependencies": {},
   "scripts": {
