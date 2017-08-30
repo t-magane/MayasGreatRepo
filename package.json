@@ -8,7 +8,7 @@
     "greenkeeper-lockfile": "=1.1.0",
     "gulp": "^3.3.4",
     "lodash": "^2.4.1",
-    "mayasfunpackagedep": "^4.0.0"
+    "mayasfunpackagedep": "^5.0.0"
   },
   "devDependencies": {},
   "scripts": {
